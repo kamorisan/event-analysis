@@ -189,7 +189,8 @@
     <repository>
       <id>maven-DM</id>
       <name>maven-DM</name>
-      <url>http://nexus-nexus.apps.florida-e455.openshiftworkshop.com/repository/maven-DM/</url>
+	  <!-- #nexusのrepository -->
+      <url>http://nexus-nexus.apps.cluster-nf7jw.nf7jw.sandbox1559.opentlc.com/repository/maven-DM/</url>
     </repository>
   </repositories>
 
